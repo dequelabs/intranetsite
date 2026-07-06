@@ -6,6 +6,7 @@
    "last": "Duduku",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -21,6 +22,7 @@
    "last": "Shukla",
    "role": "Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -32,6 +34,31 @@
    "last": "Meduri",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u65",
+   "first": "Ajay",
+   "last": "Bade",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u71",
+   "first": "Akash",
+   "last": "Shukla",
+   "role": "Senior Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -43,6 +70,7 @@
    "last": "Dantala",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -54,6 +82,7 @@
    "last": "Arumalla",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -65,6 +94,7 @@
    "last": "Raza",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -76,6 +106,7 @@
    "last": "Fierro",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -91,21 +122,11 @@
    "last": "Sarmiento",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC"
    ],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u09",
-   "first": "Anil",
-   "last": "Ghanta",
-   "role": "Associate Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
    "profile": "",
    "resume": ""
   },
@@ -115,6 +136,19 @@
    "last": "Kumari",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u77",
+   "first": "Anuja",
+   "last": "",
+   "role": "Service Operation Consultant",
+   "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -126,6 +160,7 @@
    "last": "Hade",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -137,6 +172,19 @@
    "last": "Kotha",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u78",
+   "first": "Aparna",
+   "last": "Pasi",
+   "role": "VP, Services",
+   "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -147,11 +195,24 @@
    "resume": ""
   },
   {
+   "empId": "u57",
+   "first": "Aravind",
+   "last": "Reddy",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
    "empId": "u13",
    "first": "Ashritha",
    "last": "Budharaju",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -163,6 +224,7 @@
    "last": "Naga",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -174,6 +236,7 @@
    "last": "Nakka",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -185,6 +248,7 @@
    "last": "Bommireddy",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -196,6 +260,7 @@
    "last": "Chilakamarthi",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -211,6 +276,7 @@
    "last": "Boybek",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -226,6 +292,7 @@
    "last": "Guthi",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -237,6 +304,7 @@
    "last": "Mallam",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "WAS"
@@ -245,11 +313,40 @@
    "resume": ""
   },
   {
-   "empId": "u21",
+   "empId": "u69",
    "first": "Harsha",
    "last": "Kuruva",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Validations",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u40",
+   "first": "Ramesh",
+   "last": "Kodati",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [
+    "CPACC",
+    "WAS",
+    "CPWA"
+   ],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u67",
+   "first": "Lakshmi",
+   "last": "Nakka",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -261,6 +358,7 @@
    "last": "Kasireddy",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -272,8 +370,35 @@
    "last": "Kongala",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u60",
+   "first": "Ivan",
+   "last": "K",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u43",
+   "first": "Shekhar",
+   "last": "Manjulkar",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [
+    "CPACC"
+   ],
    "profile": "",
    "resume": ""
   },
@@ -283,6 +408,7 @@
    "last": "Tillotson",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -294,6 +420,7 @@
    "last": "Vaishnav",
    "role": "Team Lead",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -304,11 +431,24 @@
    "resume": ""
   },
   {
+   "empId": "u58",
+   "first": "Swati",
+   "last": "T",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
    "empId": "u26",
    "first": "John",
    "last": "Voorhees",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC"
@@ -322,6 +462,7 @@
    "last": "karanam",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Validations",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -333,10 +474,23 @@
    "last": "Bisht",
    "role": "Senior Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC"
    ],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u61",
+   "first": "Kartik",
+   "last": "Mohan",
+   "role": "Senior Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
    "profile": "",
    "resume": ""
   },
@@ -346,6 +500,7 @@
    "last": "Nakka",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -357,6 +512,19 @@
    "last": "Ireddy",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u59",
+   "first": "Shiva Mani",
+   "last": "Vadla",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Document",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -368,6 +536,7 @@
    "last": "Paciello",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -379,6 +548,7 @@
    "last": "Annamalai",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -394,6 +564,7 @@
    "last": "Katikala",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Validations",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -405,6 +576,7 @@
    "last": "Nandyala",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -416,6 +588,7 @@
    "last": "Patel",
    "role": "Team Lead",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -426,11 +599,48 @@
    "resume": ""
   },
   {
+   "empId": "u62",
+   "first": "Mounika",
+   "last": "Yella",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u88",
+   "first": "Mythili",
+   "last": "",
+   "role": "Service Operation Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
    "empId": "u36",
    "first": "Nagamani",
    "last": "Kapa",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u68",
+   "first": "Srinivas",
+   "last": "",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -442,6 +652,7 @@
    "last": "Chouksey",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "WAS"
@@ -455,6 +666,43 @@
    "last": "Narisepalli",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u63",
+   "first": "Pratibha Bharathi",
+   "last": "Palle",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u70",
+   "first": "Pushpa",
+   "last": "",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u48",
+   "first": "Subbarayudu",
+   "last": "Sumalapu",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -466,6 +714,7 @@
    "last": "Sungala",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -476,17 +725,14 @@
    "resume": ""
   },
   {
-   "empId": "u40",
-   "first": "Ramesh",
-   "last": "Kodati",
+   "empId": "u72",
+   "first": "RamaRao",
+   "last": "",
    "role": "Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
-   "certs": [
-    "CPACC",
-    "WAS",
-    "CPWA"
-   ],
+   "certs": [],
    "profile": "",
    "resume": ""
   },
@@ -496,98 +742,31 @@
    "last": "Kurapati",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
    "resume": ""
   },
   {
-   "empId": "u42",
-   "first": "Sailesh",
-   "last": "Panchang",
-   "role": "Accessibility Consultant",
-   "location": "US",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u43",
-   "first": "Shekhar",
-   "last": "Manjulkar",
-   "role": "Associate Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u44",
-   "first": "shivanii",
-   "last": "Vanguri",
+   "empId": "u66",
+   "first": "Sai Kiran",
+   "last": "",
    "role": "Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
    "resume": ""
   },
   {
-   "empId": "u45",
-   "first": "Shraddha",
-   "last": "Chouksey",
-   "role": "Associate Accessibility Consultant",
+   "empId": "u87",
+   "first": "Sudheshna",
+   "last": "",
+   "role": "Service Operation Consultant",
    "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u46",
-   "first": "Shubhangi",
-   "last": "Tiwari",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [
-    "WAS"
-   ],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u47",
-   "first": "Sreedevi",
-   "last": "Kurapati",
-   "role": "Team Lead",
-   "location": "India",
-   "photo": "",
-   "certs": [
-    "CPACC"
-   ],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u48",
-   "first": "Subbarayudu",
-   "last": "Sumalapu",
-   "role": "Associate Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u49",
-   "first": "Sudheer",
-   "last": "Thumma",
-   "role": "Team Lead",
-   "location": "India",
+   "type": "Document",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -599,10 +778,85 @@
    "last": "Makude",
    "role": "Team Lead",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "WAS"
    ],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u64",
+   "first": "Shashikala",
+   "last": "Lingamola",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u44",
+   "first": "shivanii",
+   "last": "Vanguri",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u45",
+   "first": "Shraddha",
+   "last": "Chouksey",
+   "role": "Associate Accessibility Consultant",
+   "location": "India",
+   "type": "Validations",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u47",
+   "first": "Sreedevi",
+   "last": "Kurapati",
+   "role": "Team Lead",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [
+    "CPACC"
+   ],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u56",
+   "first": "Sruthy",
+   "last": "Manoharan",
+   "role": "Accessibility Consultant",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
+   "profile": "",
+   "resume": ""
+  },
+  {
+   "empId": "u49",
+   "first": "Sudheer",
+   "last": "Thumma",
+   "role": "Team Lead",
+   "location": "India",
+   "type": "Audit",
+   "photo": "",
+   "certs": [],
    "profile": "",
    "resume": ""
   },
@@ -612,6 +866,7 @@
    "last": "Sikorski",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -622,11 +877,12 @@
    "resume": ""
   },
   {
-   "empId": "u52",
-   "first": "Tushar",
-   "last": "Govil",
+   "empId": "u53",
+   "first": "Uday",
+   "last": "Shetty",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC"
@@ -635,11 +891,12 @@
    "resume": ""
   },
   {
-   "empId": "u53",
-   "first": "Uday",
-   "last": "Shetty",
+   "empId": "u52",
+   "first": "Tushar",
+   "last": "Govil",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC"
@@ -653,6 +910,7 @@
    "last": "Nareddy",
    "role": "Associate Accessibility Consultant",
    "location": "India",
+   "type": "Audit",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -664,6 +922,7 @@
    "last": "Creedle",
    "role": "Accessibility Consultant",
    "location": "US",
+   "type": "Audit",
    "photo": "",
    "certs": [
     "CPACC",
@@ -674,187 +933,36 @@
    "resume": ""
   },
   {
-   "empId": "u56",
-   "first": "Sruthy",
-   "last": "Manoharan",
-   "role": "Accessibility Consultant",
-   "location": "India",
+   "empId": "x1",
+   "first": "Sujasree",
+   "last": "Kurapati",
+   "role": "",
+   "location": "",
+   "type": "",
    "photo": "",
    "certs": [],
    "profile": "",
    "resume": ""
   },
   {
-   "empId": "u57",
-   "first": "Aravind",
-   "last": "Reddy",
-   "role": "Associate Accessibility Consultant",
-   "location": "India",
+   "empId": "x2",
+   "first": "Jeremy",
+   "last": "Katherman",
+   "role": "",
+   "location": "",
+   "type": "",
    "photo": "",
    "certs": [],
    "profile": "",
    "resume": ""
   },
   {
-   "empId": "u58",
-   "first": "Swati",
-   "last": "T",
-   "role": "Associate Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u59",
-   "first": "Shiva Mani",
-   "last": "Vadla",
-   "role": "Associate Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u60",
-   "first": "Ivan",
-   "last": "K",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u61",
-   "first": "Kartik",
-   "last": "Mohan",
-   "role": "Senior Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u62",
-   "first": "Mounika",
-   "last": "Yella",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u63",
-   "first": "Pratibha Bharathi",
-   "last": "Palle",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u64",
-   "first": "Shashikala",
-   "last": "Lingamola",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u65",
-   "first": "Ajay",
-   "last": "Bade",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u66",
-   "first": "Sai Kiran",
-   "last": "",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u67",
-   "first": "Hemalatha",
-   "last": "",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u68",
-   "first": "Srinivas",
-   "last": "",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u69",
-   "first": "Harsha",
-   "last": "",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u70",
-   "first": "Pushpa",
-   "last": "",
-   "role": "Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u71",
-   "first": "Akash",
-   "last": "Shukla",
-   "role": "Senior Accessibility Consultant",
-   "location": "India",
-   "photo": "",
-   "certs": [],
-   "profile": "",
-   "resume": ""
-  },
-  {
-   "empId": "u72",
-   "first": "RamaRao",
-   "last": "",
-   "role": "Accessibility Consultant",
-   "location": "India",
+   "empId": "x3",
+   "first": "Venkata",
+   "last": "Reddy Gunnam",
+   "role": "",
+   "location": "",
+   "type": "",
    "photo": "",
    "certs": [],
    "profile": "",
@@ -901,107 +1009,99 @@
    "id": "uipath",
    "name": "UiPath",
    "logo": "uipath"
+  },
+  {
+   "id": "igttesting",
+   "name": "IGT Testing",
+   "logo": ""
+  },
+  {
+   "id": "smb",
+   "name": "SMB",
+   "logo": ""
+  },
+  {
+   "id": "yahoo",
+   "name": "Yahoo",
+   "logo": ""
   }
  ],
  "peopleManagers": [
   {
-   "manager": {
-    "id": "u50",
-    "name": "Supriya Makude"
-   },
+   "manager": "u50",
    "reports": [
-    {
-     "id": "u02",
-     "name": "Aditya Shukla"
-    },
-    {
-     "id": "u10",
-     "name": "Anjali Kumari"
-    },
-    {
-     "id": "u12",
-     "name": "Aparna Kotha"
-    },
-    {
-     "id": "u28",
-     "name": "Kartik Bisht"
-    },
-    {
-     "id": "u34",
-     "name": "Maneesha Nandyala"
-    },
-    {
-     "id": "u40",
-     "name": "Ramesh Kodati"
-    },
-    {
-     "id": "u49",
-     "name": "Sudheer Thumma"
-    },
-    {
-     "id": "u57",
-     "name": "Aravind Reddy"
-    },
-    {
-     "id": "u60",
-     "name": "Ivan K"
-    }
-   ]
-  },
-  {
-   "manager": {
-    "id": "u12",
-    "name": "Aparna Kotha"
-   },
-   "reports": [
-    {
-     "id": "u06",
-     "name": "Alfisha Raza"
-    },
-    {
-     "id": "u17",
-     "name": "Bhavani Chilakamarthi"
-    },
-    {
-     "id": "u37",
-     "name": "Neeraj Chouksey"
-    },
-    {
-     "id": "u38",
-     "name": "Pavani Narisepalli"
-    },
-    {
-     "id": "u39",
-     "name": "Rajeswari Sungala"
-    },
-    {
-     "id": "u47",
-     "name": "Sreedevi Kurapati"
-    },
-    {
-     "id": "u50",
-     "name": "Supriya Makude"
-    },
-    {
-     "id": "u56",
-     "name": "Sruthy Manoharan"
-    },
-    {
-     "id": "u65",
-     "name": "Ajay Bade"
-    }
-   ]
-  },
-  {
-   "manager": {
-    "id": "u47",
-    "name": "Sreedevi Kurapati"
-   },
-   "reports": [
-    {
-     "id": "u04",
-     "name": "Akhil Dantala"
-    }
+    "u01",
+    "u02",
+    "u03",
+    "u65",
+    "u71",
+    "u04",
+    "u05",
+    "u06",
+    "u07",
+    "u08",
+    "u10",
+    "u77",
+    "u11",
+    "u12",
+    "u78",
+    "u57",
+    "u13",
+    "u14",
+    "u15",
+    "u16",
+    "u17",
+    "u18",
+    "u19",
+    "u20",
+    "u69",
+    "u40",
+    "u67",
+    "u22",
+    "u23",
+    "u60",
+    "u43",
+    "u24",
+    "u25",
+    "u58",
+    "u26",
+    "u27",
+    "u28",
+    "u61",
+    "u29",
+    "u30",
+    "u59",
+    "u31",
+    "u32",
+    "u33",
+    "u34",
+    "u35",
+    "u62",
+    "u88",
+    "u36",
+    "u68",
+    "u37",
+    "u38",
+    "u63",
+    "u70",
+    "u48",
+    "u39",
+    "u72",
+    "u41",
+    "u66",
+    "u87",
+    "u50",
+    "u64",
+    "u44",
+    "u45",
+    "u47",
+    "u56",
+    "u49",
+    "u51",
+    "u53",
+    "u52",
+    "u54",
+    "u55"
    ]
   }
  ],
@@ -1009,238 +1109,315 @@
   "clients": [
    {
     "client": "adobe",
-    "leads": [
+    "groups": [
      {
-      "id": "u13",
-      "name": "Ashritha Budharaju"
+      "lead": "u20",
+      "members": []
      },
      {
-      "id": "u20",
-      "name": "Harika Mallam"
-     },
-     {
-      "id": "u49",
-      "name": "Sudheer Thumma"
+      "lead": "u49",
+      "members": []
      }
     ],
-    "consultants": [
-     {
-      "id": "u56",
-      "name": "Sruthy Manoharan"
-     },
-     {
-      "id": "u63",
-      "name": "Pratibha Bharathi Palle"
-     }
+    "others": [
+     "u04",
+     "u14",
+     "u23",
+     "u62",
+     "u63",
+     "u56",
+     "u51"
     ],
-    "associates": [
-     {
-      "id": "u04",
-      "name": "Akhil Dantala"
-     },
-     {
-      "id": "u14",
-      "name": "Ashruth Naga"
-     },
-     {
-      "id": "u23",
-      "name": "Homika Goud Kongala"
-     }
-    ],
-    "backup": []
+    "backup": [
+     "u53"
+    ]
    },
    {
     "client": "amex",
-    "leads": [
+    "groups": [
      {
-      "id": "u16",
-      "name": "Bhavana Bommireddy"
-     },
-     {
-      "id": "u50",
-      "name": "Supriya Makude"
+      "lead": "u36",
+      "members": []
      }
     ],
-    "consultants": [
-     {
-      "id": "u44",
-      "name": "shivanii Vanguri"
-     }
-    ],
-    "associates": [
-     {
-      "id": "u09",
-      "name": "Anil Ghanta"
-     },
-     {
-      "id": "u10",
-      "name": "Anjali Kumari"
-     }
+    "others": [
+     "u10"
     ],
     "backup": []
    },
    {
     "client": "citi",
-    "leads": [],
-    "consultants": [
-     {
-      "id": "u18",
-      "name": "Gokhan Boybek"
-     },
-     {
-      "id": "u24",
-      "name": "Jason Tillotson"
-     }
+    "groups": [],
+    "others": [
+     "u18",
+     "u24"
     ],
-    "associates": [],
     "backup": []
    },
    {
     "client": "dla",
-    "leads": [],
-    "consultants": [
-     {
-      "id": "u08",
-      "name": "Angela Sarmiento"
-     },
-     {
-      "id": "u26",
-      "name": "John Voorhees"
-     }
+    "groups": [],
+    "others": [
+     "u08",
+     "u26"
     ],
-    "associates": [],
     "backup": []
    },
    {
     "client": "google",
-    "leads": [
+    "groups": [
      {
-      "id": "u01",
-      "name": "Adithya Duduku"
+      "lead": "u01",
+      "members": []
      },
      {
-      "id": "u06",
-      "name": "Alfisha Raza"
-     },
-     {
-      "id": "u25",
-      "name": "Jatin Vaishnav"
-     },
-     {
-      "id": "u34",
-      "name": "Maneesha Nandyala"
+      "lead": "u34",
+      "members": []
      }
     ],
-    "consultants": [
-     {
-      "id": "u60",
-      "name": "Ivan K"
-     },
-     {
-      "id": "u61",
-      "name": "Kartik Mohan"
-     }
+    "others": [
+     "u19",
+     "u60",
+     "u61",
+     "u30",
+     "u41",
+     "u64",
+     "u55"
     ],
-    "associates": [
-     {
-      "id": "u19",
-      "name": "Gopi Chand Guthi"
-     },
-     {
-      "id": "u30",
-      "name": "Kiran Mai Ireddy"
-     },
-     {
-      "id": "u41",
-      "name": "Sai Keerthana Kurapati"
-     },
-     {
-      "id": "u54",
-      "name": "Vikas Reddy Nareddy"
-     }
-    ],
-    "backup": []
+    "backup": [
+     "u61",
+     "u55"
+    ]
    },
    {
     "client": "meta",
-    "leads": [
+    "groups": [
      {
-      "id": "u11",
-      "name": "Anurag Prabhakar Hade"
-     },
-     {
-      "id": "u32",
-      "name": "Lakshmi Annamalai"
-     },
-     {
-      "id": "u37",
-      "name": "Neeraj Chouksey"
+      "lead": "u37",
+      "members": []
      }
     ],
-    "consultants": [
-     {
-      "id": "u02",
-      "name": "Aditya Shukla"
-     },
-     {
-      "id": "u28",
-      "name": "Kartik Bisht"
-     },
-     {
-      "id": "u40",
-      "name": "Ramesh Kodati"
-     },
-     {
-      "id": "u46",
-      "name": "Shubhangi Tiwari"
-     },
-     {
-      "id": "u52",
-      "name": "Tushar Govil"
-     }
+    "others": [
+     "u02",
+     "u77",
+     "u40",
+     "u43",
+     "u28",
+     "u52"
     ],
-    "associates": [
-     {
-      "id": "u36",
-      "name": "Nagamani Kapa"
-     },
-     {
-      "id": "u43",
-      "name": "Shekhar Manjulkar"
-     },
-     {
-      "id": "u48",
-      "name": "Subbarayudu Sumalapu"
-     }
-    ],
-    "backup": []
+    "backup": [
+     "u02"
+    ]
    },
    {
     "client": "pnc",
-    "leads": [],
-    "consultants": [
-     {
-      "id": "u07",
-      "name": "Amanda Fierro"
-     }
+    "groups": [],
+    "others": [
+     "u07"
     ],
-    "associates": [],
     "backup": []
    },
    {
     "client": "uipath",
-    "leads": [
+    "groups": [
      {
-      "id": "u17",
-      "name": "Bhavani Chilakamarthi"
+      "lead": "u17",
+      "members": []
+     },
+     {
+      "lead": "u69",
+      "members": []
      }
     ],
-    "consultants": [],
-    "associates": [],
+    "others": [],
+    "backup": []
+   },
+   {
+    "client": "igttesting",
+    "groups": [
+     {
+      "lead": "u22",
+      "members": []
+     },
+     {
+      "lead": "u47",
+      "members": []
+     }
+    ],
+    "others": [
+     "u03",
+     "u65",
+     "u71",
+     "u05",
+     "u68",
+     "u70",
+     "u66",
+     "u44"
+    ],
+    "backup": []
+   },
+   {
+    "client": "smb",
+    "groups": [
+     {
+      "lead": "u06",
+      "members": []
+     },
+     {
+      "lead": "u11",
+      "members": []
+     },
+     {
+      "lead": "u12",
+      "members": []
+     },
+     {
+      "lead": "u15",
+      "members": []
+     },
+     {
+      "lead": "u16",
+      "members": []
+     },
+     {
+      "lead": "u25",
+      "members": []
+     },
+     {
+      "lead": "u32",
+      "members": []
+     },
+     {
+      "lead": "u35",
+      "members": []
+     },
+     {
+      "lead": "u38",
+      "members": []
+     },
+     {
+      "lead": "u39",
+      "members": []
+     },
+     {
+      "lead": "u50",
+      "members": []
+     }
+    ],
+    "others": [
+     "u57",
+     "u67",
+     "u58",
+     "u27",
+     "u29",
+     "u59",
+     "u33",
+     "u48",
+     "u72",
+     "u54"
+    ],
+    "backup": []
+   },
+   {
+    "client": "yahoo",
+    "groups": [],
+    "others": [
+     "u53"
+    ],
     "backup": []
    }
   ],
   "visualAssistance": [],
   "backupTeam": []
- }
+ },
+ "resources": [
+  {
+   "category": "Trainings",
+   "links": [
+    {
+     "label": "Global AC Team Training Sessions",
+     "url": "#"
+    },
+    {
+     "label": "SC training for new comers",
+     "url": "#"
+    }
+   ]
+  },
+  {
+   "category": "Methodology",
+   "links": [
+    {
+     "label": "WCAG Example Documents",
+     "url": "#"
+    },
+    {
+     "label": "EN 301 549 - 25 Methodology",
+     "url": "#"
+    },
+    {
+     "label": "Jedi Council",
+     "url": "#"
+    },
+    {
+     "label": "Deque way",
+     "url": "#"
+    }
+   ]
+  },
+  {
+   "category": "Job Aids",
+   "links": [
+    {
+     "label": "Validation",
+     "url": "#"
+    },
+    {
+     "label": "Design Services",
+     "url": "#"
+    },
+    {
+     "label": "Audits",
+     "url": "#"
+    },
+    {
+     "label": "Native Audits",
+     "url": "#"
+    },
+    {
+     "label": "Email",
+     "url": "#"
+    },
+    {
+     "label": "Hardware",
+     "url": "#"
+    },
+    {
+     "label": "ACR",
+     "url": "#"
+    }
+   ]
+  },
+  {
+   "category": "Templates",
+   "links": [
+    {
+     "label": "ACR",
+     "url": "#"
+    },
+    {
+     "label": "DCAA",
+     "url": "#"
+    },
+    {
+     "label": "Design Review",
+     "url": "#"
+    },
+    {
+     "label": "WAS",
+     "url": "#"
+    }
+   ]
+  }
+ ]
 }
